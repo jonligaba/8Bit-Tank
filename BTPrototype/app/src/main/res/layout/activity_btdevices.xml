@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="264dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Found Devices:"
+        android:id="@+id/textView" />
+
+    <ListView
+        android:id="@+id/new_devices"
+        android:layout_width="match_parent"
+        android:layout_height="319dp"
+        android:stackFromBottom="true"
+        android:layout_weight="0.54" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Scanning"
+        android:id="@+id/button"
+        android:visibility="visible"
+        android:layout_gravity="bottom|right"
+        android:clickable="true" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">BTPrototype</string>
+    <string name="title_activity_btdevices">BTDevicesActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_btprompt">btprompt</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
