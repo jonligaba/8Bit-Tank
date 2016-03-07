@@ -18,7 +18,7 @@ graphics and sticking with the original game name we came up with during our fir
 
 4. Message will prompt you to install it.
 
-Contributors:
+Contributors / Authors :
 
  *          Seursing, Jonathan
  *          Son, Il Won
