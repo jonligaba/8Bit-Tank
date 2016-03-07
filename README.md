@@ -9,9 +9,13 @@ graphics and sticking with the original game name we came up with during our fir
 
 
 --> TO INSTALL <--
+
 1. Download the app-release.apk file.
+
 2. Transfer apk file into your android device.
+
 3. Locate the apk file in android device and click.
+
 4. Message will prompt you to install it.
 
 Contributors:
